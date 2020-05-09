@@ -10,7 +10,7 @@
 #include <string>
 #include <vector>
 #include <filesystem>
-#include "VTFLib.h"
+#include "VTFLib\lib\VTFLib.h"
 #include "utility.hpp"
 
 namespace fs = std::filesystem;
