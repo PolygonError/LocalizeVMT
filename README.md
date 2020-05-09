@@ -1,6 +1,6 @@
 ## LocalizeVMT
 
-#### A tool which attempts to ix broken paths a folder of VMTs recursively.
+#### A tool which attempts to is broken paths a folder of VMTs recursively.
 
 ## Author Information
 
