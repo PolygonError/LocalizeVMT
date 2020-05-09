@@ -14,7 +14,7 @@
 #include "utility.hpp"
 
 namespace fs = std::filesystem;
-std::vector<std::string> unknownVMFs;
+std::vector<std::string> unknownVMFs; //unused, was intended to be printed to a file but I got too lazy
 
 int main(int argc, char *argv[]) {
 	if (argc <= 1) {
