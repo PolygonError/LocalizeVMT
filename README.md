@@ -9,7 +9,7 @@
 * **Date**: May 9th, 2020
 * **Authors**: [polygonerror](https://github.com/PolygonError)
 
-### Use
+## Use
 
 `LocalizeVMT <path-to-vmt-folder>`
 
@@ -21,11 +21,11 @@ It will not work for all paths, as many may be in the game's files or simply do 
 
 It will save over the existing VMT, so make sure you have a backup because it could fuck up.
 
-### To Build
+## To Build
 
 This requires [VTFLib](https://github.com/NeilJed/VTFLib/) to build.
 
-### Copyrights
+## Copyrights
 
 LocalizeVMT
  * Copyright (c) 2020 polygonerror
